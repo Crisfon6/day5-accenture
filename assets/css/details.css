@@ -1,0 +1,14 @@
+* {
+    border: 1px solid;
+}
+
+.section {
+    width: 100%;
+    height: auto;
+}
+
+.description {
+    background-color: rgba(0, 0, 0, 0.76);
+    text-align: center;
+    color: white;
+}
