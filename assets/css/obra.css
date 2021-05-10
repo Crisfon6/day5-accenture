@@ -4,7 +4,7 @@ h1 {
 
 .card {
     width: 263px;
-    float: inline-start;
+    float: left;
     border-radius: 40px;
     position: relative;
     margin-right: 20px;
